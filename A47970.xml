@@ -1,0 +1,346 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter directed to the Right Honourable the Earl of Perth, governour to the Prince</title>
+            <author>Melfort, John Drummond, Earl of, 1649-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47970</idno>
+            <idno type="STC">Wing L1361</idno>
+            <idno type="STC">ESTC N18878</idno>
+            <idno type="EEBO-CITATION">18207840</idno>
+            <idno type="OCLC">ocm 18207840</idno>
+            <idno type="VID">107119</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47970)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107119)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1127:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter directed to the Right Honourable the Earl of Perth, governour to the Prince</title>
+                  <author>Melfort, John Drummond, Earl of, 1649-1715.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, and the executrix of Thomas Newcomb ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1700 [i.e. 1701]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Royal arms on t.p.</note>
+                  <note>Dated (p.3): Friday 18th of February, 1701.</note>
+                  <note>"Asserting Louis XIV's willingness to provide military support for the Pretender's claims to the British corwn."--NUC pre-1956 imprints.</note>
+                  <note>Formerly identified as Wing L1361 and M1642. Both numbers cancelled in Wing (2nd ed., 1994) due to post-1700 imprint date.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, --  Prince of Wales, 1688-1766.</term>
+               <term>Louis --  XIV, --  King of France, 1638-1715.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107119:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <p>A LETTER Directed to the RIGHT HONOURABLE THE Earl of Perth,
+GOVERNOUR TO THE PRINCE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the
+Executrix of <hi>Thomas Newcomb,</hi> deceas'd, Printers to the Kings moſt
+Ex<g ref="char:EOLhyphen"/>cellent Majeſty. 1700.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:107119:2"/>
+            <!-- PDF PAGE 52 -->
+            <head>Die Lunae, 17 Februarii, 1700.</head>
+            <p>UPon Reading this day a Letter communi<g ref="char:EOLhyphen"/>cated to the Houſe by
+His Majeſties Com<g ref="char:EOLhyphen"/>mand, Dated <hi>18th February, 1701,</hi> and Directed,
+<hi>To the Right Honourable the Earl of</hi> Perth, <hi>Governour to the
+Prince, Theſe,</hi> It is Ordered by the Lords Spiritual and Temporal in
+Parliament Aſſembled, That the Lord Keeper of the Great Seal of
+<hi>England,</hi> do give Order, that the ſaid Letter be forthwith Printed
+and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Matthew Johnſon, Cleric<g ref="char:abbrapo">’</g>
+Parliamentor<g ref="char:abbrapo">’</g>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:107119:2"/>
+            <!-- PDF PAGE 52 -->
+            <head>A LETTER Directed to the RIGHT HONOURABLE THE Earl of Perth,
+GOVERNOUR to the PRINCE.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Friday</hi> 18th <hi>of</hi> February,
+1701.</date>
+               </dateline> 
+               <salute>My D<hi rend="sup">st</hi>. B<hi rend="sup">r</hi>.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince I promiſt to put in Writing what we had not time to
+talk fully of, I am ſet down to it in the Morning, that my Letter may be
+ready for the Meſſenger if any call.</p>
+            <p>I told you all that I had heard at <hi>Ver<g ref="char:EOLhyphen"/>ſailles,</hi> and
+the favorable Audience I had of <hi>Madame de Mentenon,</hi> for which I beg it
+of you to return my moſt humble Thanks to the Queen, and beg of her to be
+ſo good as to Thank <hi>Madame de Mentenon,</hi> and know from her what can
+be <pb n="4" facs="tcp:107119:3"/>
+               <!-- PDF PAGE 53 -->done in that matter. It will
+be a great Charity in the Queen.</p>
+            <p>I told you amongſt other things the great Fleet the King
+intends to put out this Summer, the Orders being given, and the Money ready,
+the Stores full, and every one concerned Active in their Sta<g ref="char:EOLhyphen"/>tions; There is no
+doubt but this Fleet will be Maſter of the Sea for ſome time, if not for
+all the Summer, becauſe the <hi>Dutch</hi> dare not ſtir till the
+<hi>Engliſh</hi> be ready, and they have long Debates yet before they can be
+in a Condition to Act, if they have the Will; and it is a Queſtion if they
+will have it at all.</p>
+            <p>The King never had ſo favorable a Conjuncture, if he can
+perſuade this King that his Affairs are really in the Circumſtances they
+are in, but there is the Difficulty.</p>
+            <p>The King and Queen have more Au<g ref="char:EOLhyphen"/>thority with the King, and with
+<hi>Madame de Mentenon,</hi> than any other in the World can have, but that's
+not all, there ſhould be ſome one Acceptable to the Miniſters, who
+ſhould lay before them theſe Proofs, their Majeſties cannot enter into
+the De<g ref="char:EOLhyphen"/>tail of, and explain the Reaſons, make Plans and Memoires by their
+Majeſties Approbation, to Convince them of the neceſſity, and to ſhew
+the eaſineſs of Re<g ref="char:EOLhyphen"/>ſtoring the King, the Glory it brings to their King,
+and the Advantage to Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <pb n="5" facs="tcp:107119:3"/>
+            <!-- PDF PAGE 53 -->
+            <p>How this will be done their Majeſties are wiſe enough to
+Conſider, and I think it is not a Subject fit for me to en<g ref="char:EOLhyphen"/>ter upon, but
+their Friends in general, who know not the half of what I know in this matter,
+think that it will not be well done by a Proteſtant Miniſter, Lazy in his
+Temper, Enemy to <hi>France</hi> by his Inclination, Tainted with Commonwealth
+Principles, and againſt the Kings Re<g ref="char:EOLhyphen"/>turning by any other Power than that of
+the People of <hi>England,</hi> upon Capitulation and Terms, who is
+ſuſpected of giving aim to the Compounders, if not worſe.</p>
+            <p>That Mr. <hi>Carrell</hi> is qualified no man doubts, but in
+Society with the other, theſe who muſt be Inſtrumental will not truſt
+him as he ought, ſo that ſo long as the other is within diſtance of
+penetrating the Affairs, they will never think themſelves ſecure.</p>
+            <p>And yet the King has no ſuch Game to play as by theſe very
+Perſons, who are thus defident, namely the true Church of <hi>England</hi>
+Party, the Catholicks, and the Earl of <hi>Arran,</hi> and I ſhall ſay
+ſomething as to every one of them. The King cannot but be ſenſible that
+the true Church of <hi>England</hi> Party, and their Prin<g ref="char:EOLhyphen"/>cipal Head now the
+Biſhop of <hi>Norwich,</hi> has been ſilent of a long time, and their
+Majeſties may remember what weight the Court of <hi>France</hi> laid upon
+their joyning <pb n="6" facs="tcp:107119:4"/>
+               <!-- PDF PAGE 54 -->the King (I mean
+the Non-ſwearing Cler<g ref="char:EOLhyphen"/>gy) in caſe of a Landing.</p>
+            <p>Therefore all arts ſhould be tried with<g ref="char:EOLhyphen"/>out delay to get them
+to enter into Correſpondence again, and every Impe<g ref="char:EOLhyphen"/>diment ought to be
+removed, I ſay with<g ref="char:EOLhyphen"/>out exception, and though ſometimes it is of hard
+digeſtion for Soveraignes who ought to be obeyed without reſerve, to yield
+to the humours of Subjects, yet Prudence ſhould teach them, when they cannot
+without hurting their Affairs do what they would, to do what they can, and
+remember the Fable of the Dog, who loſt the Subſtance for the Shadow.</p>
+            <p>Aſſurances from the Non-ſwearers, the Soundeſt and
+Venerabliſt part of the <hi>Engliſh</hi> Church, would be of great uſe at
+this time, to perſuade <hi>France</hi> to under<g ref="char:EOLhyphen"/>take this great Affair, for
+beſides their owne Example at a Landing, and their Preaching and Writing to
+the People, that their Religion was in no danger, it is moſt certain they
+know better than any others can, what the Church of <hi>England</hi> in general
+would do for the Kings Service, and they being to run all the hazard, would be
+better believed at the Court of <hi>France</hi> than any other, as I found by
+experience.</p>
+            <p>As to the Catholicks and others Aſſo<g ref="char:EOLhyphen"/>ciate with them
+unfortunately for the King they were thought to have too 
+<pb n="7" facs="tcp:107119:4"/>
+               <!-- PDF PAGE 54 -->much Inclination for me, and
+ſo have been reckoned as uſeleſs to the King, but I muſt beg leave to
+ſay, that Undertaking was the beſt Feather in his Wing, and was moſt
+juſtly thought ſo by him, and by the Court of <hi>France</hi> too, even to
+that degree, they pretended if this and the o<g ref="char:EOLhyphen"/>ther Article concerning the
+Clergy, could be made Appear, they would Concur with the King to Invade
+<hi>England.</hi> They Conſiſt<g ref="char:EOLhyphen"/>ed of Seven Regiments of Horſe and
+Dragoons, their Arms, Trumpets, Kettle Drums, Standards, <hi>&amp;c.</hi> were
+all ready, and are yet in ſurety, their Men were all Liſted, and their
+Officers Choſen, and they had twenty Horſes to a Troop, which Troops lying
+at a diſtance in a Horſe Country, twenty Horſes would ſoon have
+Mount<g ref="char:EOLhyphen"/>ed the reſt.</p>
+            <p>Thoſe who could not divine the Great<g ref="char:EOLhyphen"/>neſs and the Uſe of
+the Undertaking, blamed the Raſhneſs of it, and even ſome Churchmen have
+not been diſapproven for endeavouring undutifully (becauſe contrary to the
+Kings Written Or<g ref="char:EOLhyphen"/>ders) to break the Deſigne; but I deſire you now for all
+this to believe, that you have not ſuch another Argument to uſe to the
+Court of <hi>France</hi> as this, and if you could make it appear, as it might
+have been done ſome Years ago, I ſhould have very good Hopes of this
+Summers Work. Nay let the King have what <pb n="8" facs="tcp:107119:5"/>
+               <!-- PDF PAGE 55 -->other
+Hopes, or even Promiſes you pleaſe from the Court of <hi>France,</hi> this
+is to be Encouraged, and if poſſible, to be put in the Circumſtances it
+was in, for if ever there be a Landing in <hi>England</hi> to purpoſe, it
+muſt be before they can be armed, and they cannot be armed before the
+Parlia<g ref="char:EOLhyphen"/>ment come to a Reſolution concerning the War, and conſidering the
+few Troops in <hi>England,</hi> ſuppoſe theſe men to be no better than
+Militia, what a Diverſion would it be.</p>
+            <p>It is not neceſſary for me to ſay any more of this
+Article, till I know whether their Majeſties have as good an Opinion of this
+Undertaking as I have. If ſo I ſhall ſhew what I think to be done in it,
+if otherwiſe I ſhall ſave the Pains.</p>
+            <p>As to the Earl of <hi>Arran,</hi> it would be of great uſe to
+have an Underſtanding with him. He will have none where— can prye; his
+all is at ſtake, and he ought to be wary with whom he ventures to deal.</p>
+            <p>I think it better for the Kings Service, that the Court Party
+prevailed in the manner they have done in the Parliament of <hi>Scotland,</hi>
+than that the Country Party ſhould have got their Will. Oppoſition ſwells
+the Waters to a Flood, and ſo long as the Country Party is not diſcouraged,
+they gain more Ground in the Kingdom than they loſe in Government. So that 
+<pb n="9" facs="tcp:107119:5"/>
+               <!-- PDF PAGE 55 -->the Diſaffection to the
+Government will encreaſe, and one may judge of the Na<g ref="char:EOLhyphen"/>tion in general, which
+is of an other Tem<g ref="char:EOLhyphen"/>per than this pretended Parliament, or rather Presbiterian
+Rabble, ill repre<g ref="char:EOLhyphen"/>ſenting the Nation. For ſince even in it, there is ſuch
+a Struggle againſt the Go<g ref="char:EOLhyphen"/>vernment, what would there be in a Free Parliament,
+which the <hi>P.</hi> of <hi>O.</hi> durſt ne<g ref="char:EOLhyphen"/>ver hazard to call.</p>
+            <p>The Nation then, at leaſt a great part of it, being
+diſaffected to this Govern<g ref="char:EOLhyphen"/>ment, it is of the laſt Conſequence that E.
+<hi>Arran</hi> may know what to do in caſe of an Invaſion of
+<hi>England,</hi> or in caſe he and his Friends be obliged for Self
+preſer<g ref="char:EOLhyphen"/>vation to riſe in their own Defence.</p>
+            <p>The Army who are and ever were well-affected, are to be gained
+by Money, and a little goes a great way with them.</p>
+            <p>The Disbanded Troops would be en<g ref="char:EOLhyphen"/>gaged, and the Officers are
+well inclined.</p>
+            <p>The Places of Strength would be ſecu<g ref="char:EOLhyphen"/>red, and ſuch as can be
+put in Defence (without Expences) fortified.</p>
+            <p>To do all this, at leaſt ſuch a part of them as can be begun
+with, a ſmall Sum will ſerve, and He ought to have Hopes of it, and of the
+Command.</p>
+            <p>Theſe being only Heads to be diſcour<g ref="char:EOLhyphen"/>ſed of, and much to
+be ſaid of every part, it is not to be thought that this Letter can carry a
+final Concluſion; for it may <pb n="10" facs="tcp:107119:6"/>
+               <!-- PDF PAGE 56 -->be
+upon Diſcourſe, I might change my Mind, or be more confirmed in, and ſee
+further.</p>
+            <p>This makes me inſiſt again to you, upon two things as
+appearing to me ab<g ref="char:EOLhyphen"/>ſolutely neceſſary to put things upon a right
+foot.</p>
+            <p>The Firſt is the removing of all Im<g ref="char:EOLhyphen"/>pediments out of the way,
+and ſending all Suſpected Perſons to <hi>Champagne</hi> or
+<hi>Burgundy,</hi> according to their Gouſt.</p>
+            <p>And the Second is of the laſt Uſe, both to their Majeſties
+and the Prince, which is the Eſtabliſhing of ſuch a Number, under no
+Qualification, to talk of their Affairs in their Majeſties Preſence, with
+whom we can freely converſe and pro<g ref="char:EOLhyphen"/>poſe what may be for their Majeſties
+Service.</p>
+            <p>As for the Firſt, It will be for the Kings Reputation both at
+the Court of <hi>Rome, France,</hi> and with all his true Friends in
+<hi>England</hi> for many Reaſons—</p>
+            <p>As for the Second, It is according to Scripture, In the
+multitude of Coun<g ref="char:EOLhyphen"/>cellors there is ſafety.</p>
+            <p>Nothing is ſo dangerous as firſt to De<g ref="char:EOLhyphen"/>termine what one will
+do, and then hear Reaſons againſt it, and immitate the deaf Adder who
+hearkens not to the Voice of the Charmer, let him Charm never ſo ſweatly.
+Reaſons againſt a Re<g ref="char:EOLhyphen"/>ſolution taken, offend, and the more 
+<pb n="11" facs="tcp:107119:6"/>
+               <!-- PDF PAGE 56 -->Force they have, they offend
+the more, whilſt before the Reſolution be taken, Reaſon has its Effect,
+and the Determi<g ref="char:EOLhyphen"/>nations are not the Effects of Humour and Faction, but of
+Prudence and Juſtice.</p>
+            <p>If in any thing I fail, I'le Swear its want of Underſtanding,
+and not of Will. And I beg, that their Majeſties may be perſuaded, that it
+is not Humour nor Vanity, but their Service I have in my viewe, who am,</p>
+            <closer>
+               <salute>My D<hi rend="sup">st</hi>. B<hi rend="sup">r</hi>.</salute>
+               <signed>Moſt humbly Yours.</signed>
+            </closer>
+            <postscript>
+               <p>There are no Letters from <hi>England,</hi> I expect and am
+promiſt—</p>
+               <p>I forgot to tell you, that the Con<g ref="char:EOLhyphen"/>juncture ought to be
+improven ſo long as the Court of <hi>France</hi> have the Ill Opi<g ref="char:EOLhyphen"/>nion of the
+Pr. of <hi>Orange</hi>'s Treachery diſcovered lately in their hands.</p>
+            </postscript>
+            <trailer>Superſcription, <hi>For the Right Honourable the Earl
+of</hi> Perth, <hi>Go<g ref="char:EOLhyphen"/>vernour to the Prince, Theſe.</hi>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
